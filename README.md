@@ -5,8 +5,8 @@ I am still somewhat new to programming regularly, so there will be a lot of mist
 ___
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=dorrelredmond&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" />
+<img align="center" style="margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=dorrelredmond&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorrelredmond&langs_count=10&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorrelredmond&langs_count=10&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be"" />
 </a>
